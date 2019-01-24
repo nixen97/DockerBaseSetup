@@ -1,0 +1,5 @@
+version: "3"
+services:
+  app:
+    build: ./test
+    image: nixen97/2yp:test
